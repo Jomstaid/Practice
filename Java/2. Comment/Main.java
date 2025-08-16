@@ -9,8 +9,8 @@ public class Main {
         System.out.println(10.000);
         System.out.println(9);
         System.out.println(9 + 9);
-        System.out.println(10 - 1);
-        System.out.println(2 * 9);
+        // System.out.println(10 - 1);
+        // System.out.println(2 * 9);
         System.out.println(10 / 2);
 
         /* Multi 
